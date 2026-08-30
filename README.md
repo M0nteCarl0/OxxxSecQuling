@@ -8,7 +8,6 @@
 
 A comprehensive, publication-ready technical playbook and **30-part Telegram post series** exploring practical binary analysis, reverse engineering, IoT firmware emulation, vulnerability research, and malware sandboxing using the [Qiling Framework](https://github.com/qilingframework/qiling).
 
-Every topic includes a complete markdown post designed for Telegram channel broadcasting, accompanied by tested, standalone Python implementation scripts and direct links to official rootfs and test sample datasets.
 
 ---
 
