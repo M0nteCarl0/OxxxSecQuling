@@ -4,10 +4,12 @@
 [![Qiling Framework](https://img.shields.io/badge/Qiling-1.4.6-green.svg)](https://github.com/qilingframework/qiling)
 [![Cross-Architecture](https://img.shields.io/badge/Arch-ARM%20%7C%20ARM64%20%7C%20MIPS%20%7C%20x86%20%7C%20x86__64%20%7C%20RISC--V-orange.svg)](https://github.com/qilingframework/qiling)
 [![Multi-OS](https://img.shields.io/badge/OS-Linux%20%7C%20Windows%20%7C%20macOS%20%7C%20UEFI%20%7C%20DOS%20%7C%20FreeRTOS-purple.svg)](https://github.com/qilingframework/qiling)
+[![Telegram Channel](https://img.shields.io/badge/Telegram-OxxxSec-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/OxxxSec)
 [![Tests Passing](https://img.shields.io/badge/tests-30%2F30%20passed-brightgreen.svg)](verify_all.py)
 
 A comprehensive, publication-ready technical playbook and **30-part Telegram post series** exploring practical binary analysis, reverse engineering, IoT firmware emulation, vulnerability research, and malware sandboxing using the [Qiling Framework](https://github.com/qilingframework/qiling).
 
+> 📢 **Telegram Channel**: Follow [@OxxxSec](https://t.me/OxxxSec)!
 
 ---
 
@@ -155,6 +157,13 @@ python 03_precision_memory_mapping/example.py
 ```
 
 ---
+## 👤 Author & Telegram Channel
+
+- **Official Channel**: [OxxxSec Telegram Channel](https://t.me/OxxxSec) (`@OxxxSec`)
+- **Topics**: Daily binary analysis, reverse engineering write-ups, vulnerability research, and firmware sandboxing.
+
+---
+
 ## 🔗 References & Ecosystem
 
 - **Qiling Framework Repository**: [https://github.com/qilingframework/qiling](https://github.com/qilingframework/qiling)
